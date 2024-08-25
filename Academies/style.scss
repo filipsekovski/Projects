@@ -1,0 +1,36 @@
+
+body {
+    margin: 0;
+
+}
+.ml-20 {
+    margin-left: 20px;
+}
+
+.pl-10 {
+    padding-left: 10px;
+}
+.mr-10 {
+    margin-right: 10px;
+}
+.p-top-p-bottom {
+    padding: 50px 0px;
+}
+.mt-30 {
+    margin-top: 30px;
+}
+.front-end {
+    background: linear-gradient(to top, rgb(103, 103, 103), rgb(42, 42, 42));
+}
+.bg-black-dark {
+    background-color: rgb(42, 42, 42);
+}
+img {
+    object-fit: cover;
+}
+.bg-banner {
+    background: url('./images/banner-img.jpg') no-repeat center/cover;
+    background-color: rgba(0, 0, 0, 0.781);
+    background-blend-mode: multiply;
+}
+
